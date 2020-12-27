@@ -1,0 +1,10 @@
+[error] /Users/massimo/git_repo/scala/programming_reactive_systems/example/project/StudentTasks.scala:5:8: not found: object scalafix
+[error] import scalafix.sbt.ScalafixPlugin.autoImport._
+[error]        ^
+[error] /Users/massimo/git_repo/scala/programming_reactive_systems/example/project/StudentTasks.scala:38:8: not found: value scalafix
+[error]       (scalafix in Compile).toTask(" --check").dependsOn(compile in Compile)
+[error]        ^
+[error] /Users/massimo/git_repo/scala/programming_reactive_systems/example/project/StudentTasks.scala:55:5: not found: value scalafixConfig
+[error]     scalafixConfig := {
+[error]     ^
+[error] three errors found
