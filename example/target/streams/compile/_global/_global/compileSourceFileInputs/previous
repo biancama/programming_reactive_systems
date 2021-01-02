@@ -1,1 +1,0 @@
-["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/Users/massimo/git_repo/scala/programming_reactive_systems/example/src/main/scala/example/Lists.scala","ab04a525081d6069daf50465db661e148e670ca4"]],"lastModifiedTimes":[]}}]
